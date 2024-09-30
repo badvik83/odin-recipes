@@ -1,8 +1,8 @@
-.button {
-    background-color: #04AA6D; /* Green */
+a button {
+    background-color: #e48339; /* Lasagna color */
     border: 5px;
     color: white;
-    padding: 15px 32px;
+    padding: 5px 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
